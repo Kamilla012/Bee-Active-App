@@ -39,6 +39,4 @@ BeeActive project is built using the following technologies:
 
 This project is licensed under the Apache License 2.0. For details, see the LICENSE file.
 
-## Contact
 
-If you have any questions or suggestions regarding this project, please contact us at email@example.com.
