@@ -5,10 +5,10 @@ BeeActive is a project aimed at promoting physical activity and fostering relati
 ## Features
 
 - **Friend Invitations:** Users can send and accept/reject invitations to connect with other users.
-- **Messaging:** (during development) - Ability to communicate with other users through messaging.
 - **User Profiles:** Users can view profiles of other users.
 - **Login and Registration System:** Registration process includes selecting user interests categories.
 - **Activity Time Tracking:** Users can measure activity time by selecting from a list of available activities. Data is stored in the database and displayed on the user profile.
+- **Messaging:** (during development) - Ability to communicate with other users through messaging.
 
 ## Technologies
 
