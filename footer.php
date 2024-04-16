@@ -1,21 +1,29 @@
 <?php include_once 'header.php'; ?>
 <footer class="bg-dark">
-<div class="row">
-        <h3>About us</h3>
-        <ul>
-            <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-            <li><a href="#"><i class="fas fa-info-circle"></i> About us</a></li>
-        </ul>
-    </div>
-    <div class="row">
-        <h3>Contact</h3>
-        <ul>
-            <li><a href="#"><i class="fas fa-phone"></i>Phone</a></li>
 
-            <li><a href="#"><i class="fas fa-envelope"></i>Concat</a></li>
-        </ul>
+    <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+            <p>Contact:</p>
+                <ul class="list-unstyled">
+                    <li><i class="fas fa-envelope"></i> example@example.com</li>
+                    <li><i class="fas fa-phone"></i> +1234567890</li>
+                </ul>
+
+
+            </div>
+            <div class="col-md-4 ">
+                <p>Location:</p>
+                <p><i class="fas fa-map-marker-alt"></i> 123 Street Name, City, Country</p>
+            </div>
+            
+
+            <div class="col-md-4 ">
+                <img class="footer-img" src="./images/Bee.svg" alt="Bee" />
+            </div>
+        </div>
     </div>
-    <div class="row">
-        <img class="footer-img" src="./images/Bee.svg"/>
-    </div>
+</footer>
+
 </footer>
