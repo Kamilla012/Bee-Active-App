@@ -25,7 +25,7 @@ BeeActive project is built using the following technologies:
 
 1. Clone the repository to your computer.
 2. Configure Apache and MySQL server (e.g., by using XAMPP).
-3. Import the beeactive.sql file into your MySQL database.
+3. Import the gym_app.sql file from /database  into your MySQL database.
 4. Configure the database connection in the `config.php` file.
 5. Run the project on your local server.
 
