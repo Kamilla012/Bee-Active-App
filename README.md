@@ -1,6 +1,7 @@
 # BeeActive
 
 *link* https://beeactive.great-site.net
+
 BeeActive is a project aimed at promoting physical activity and fostering relationships with other individuals engaged in sports.
 
 ## Features
@@ -33,8 +34,8 @@ BeeActive project is built using the following technologies:
 ## Notes
 
 - The project is in development, so there may be some imperfections.
-- We encourage reporting bugs and suggesting new features.
-- For any issues or questions, please contact the project author.
+- I encourage reporting bugs and suggesting new features.
+
 
 ## License
 
