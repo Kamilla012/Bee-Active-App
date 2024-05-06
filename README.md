@@ -1,6 +1,6 @@
 # BeeActive
 
-*link* https://beeactive.great-site.net
+*link* http://beeactive.great-site.net
 
 BeeActive is a project aimed at promoting physical activity and fostering relationships with other individuals engaged in sports.
 
