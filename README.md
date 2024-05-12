@@ -1,6 +1,9 @@
 # BeeActive
 
 *link* http://beeactive.great-site.net
+user for test login:
+login: user@gmail.com
+password: user
 
 BeeActive is a project aimed at promoting physical activity and fostering relationships with other individuals engaged in sports.
 
